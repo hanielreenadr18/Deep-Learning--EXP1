@@ -114,18 +114,25 @@ model.predict(X_n1_1)
 
 <img width="776" height="500" alt="image" src="https://github.com/user-attachments/assets/ad83b35b-a64b-4a8b-99bc-bbc198fd4dac" />
 
+
+
 **Epoch Training:**
 
 <img width="768" height="269" alt="image" src="https://github.com/user-attachments/assets/0bc1d679-c17d-4a74-9cf3-53aee7dfdf99" />
+
+
 
 
 **Test Data Root Mean Squared Error:**
 
 <img width="603" height="63" alt="image" src="https://github.com/user-attachments/assets/a16f5a99-9d48-4621-b1c2-db55fec8880c" />
 
+
+
 **New Sample Data Prediction:**
 
 <img width="483" height="57" alt="image" src="https://github.com/user-attachments/assets/a0ae026b-2f48-4417-87ed-c9c57bb00c60" />
+
 
 
 # RESULT
