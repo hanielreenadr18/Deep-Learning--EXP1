@@ -110,7 +110,7 @@ model.predict(X_n1_1)
 
 # OUTPUT
 
-Training Loss Vs Iteration Plot:
+**Training Loss Vs Iteration Plot:**
 
 <img width="776" height="500" alt="image" src="https://github.com/user-attachments/assets/ad83b35b-a64b-4a8b-99bc-bbc198fd4dac" />
 
