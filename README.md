@@ -9,6 +9,10 @@ To develop a neural network regression model for the given dataset.
 
 Regression problems involve predicting a continuous output variable based on input features. Traditional linear regression models often struggle with complex patterns in data. Neural networks, specifically feedforward neural networks, can capture these complex relationships by using multiple layers of neurons and activation functions. In this experiment, a neural network model is introduced with a single linear layer that learns the parameters weight and bias using gradient descent.
 
+# Architecture:
+
+This neural network architecture comprises two hidden layers with ReLU activation functions, each having 5 and 3 neurons respectively, followed by a linear output layer with 1 neuron. The input shape is a single variable, and the network aims to learn and predict continuous outputs.
+
 # Neural Network Model
 
 
@@ -137,4 +141,4 @@ model.predict(X_n1_1)
 
 # RESULT
 
-Thus, a neural network regression model was successfully developed and trained using PyTorch.
+Thus a basic neural network regression model for the given dataset is written and executed successfully.
