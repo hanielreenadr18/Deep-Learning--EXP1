@@ -1,4 +1,4 @@
-<img width="330" height="410" alt="image" src="https://github.com/user-attachments/assets/a217ad29-05a3-40a4-82c9-7639f7617e95" />**Developing a Neural Network Regression Model**
+# EXPERIMENT 01: DEVELOPING A NEURAL NETWORK REGRESSION MODEL
 
 **AIM**
 To develop a neural network regression model for the given dataset.
@@ -9,6 +9,8 @@ To develop a neural network regression model for the given dataset.
 Regression problems involve predicting a continuous output variable based on input features. Traditional linear regression models often struggle with complex patterns in data. Neural networks, specifically feedforward neural networks, can capture these complex relationships by using multiple layers of neurons and activation functions. In this experiment, a neural network model is introduced with a single linear layer that learns the parameters weight and bias using gradient descent.
 
 **Neural Network Model**
+
+
 <img width="890" height="471" alt="image" src="https://github.com/user-attachments/assets/c791ef1d-1c86-40fe-9b4c-57e8f9c968a9" />
 
 
@@ -95,28 +97,28 @@ model.predict(X_n1_1)
 ```
 **DATASET INFORMATION:**
 
-# Initialize the Model, Loss Function, and Optimizer
+
 <img width="330" height="410" alt="image" src="https://github.com/user-attachments/assets/1bc4ffd7-143b-499d-bf09-eaa441b4ad99" />
 
 **OUTPUT**
 
 Training Loss Vs Iteration Plot:
+
 <img width="776" height="500" alt="image" src="https://github.com/user-attachments/assets/ad83b35b-a64b-4a8b-99bc-bbc198fd4dac" />
 
 **Epoch Training:**
+
 <img width="768" height="269" alt="image" src="https://github.com/user-attachments/assets/0bc1d679-c17d-4a74-9cf3-53aee7dfdf99" />
 
 
 **Test Data Root Mean Squared Error:**
+
 <img width="603" height="63" alt="image" src="https://github.com/user-attachments/assets/a16f5a99-9d48-4621-b1c2-db55fec8880c" />
 
 **New Sample Data Prediction:**
+
 <img width="483" height="57" alt="image" src="https://github.com/user-attachments/assets/a0ae026b-2f48-4417-87ed-c9c57bb00c60" />
 
-
-**New Sample Data Prediction**
-
-Include your sample input and output here
 
 **RESULT**
 
