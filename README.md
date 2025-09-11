@@ -137,8 +137,6 @@ model.predict(X_n1_1)
 
 <img width="483" height="57" alt="image" src="https://github.com/user-attachments/assets/a0ae026b-2f48-4417-87ed-c9c57bb00c60" />
 
-
-
 # RESULT
 
 Thus a basic neural network regression model for the given dataset is written and executed successfully.
